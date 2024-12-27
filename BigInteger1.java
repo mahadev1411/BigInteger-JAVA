@@ -1,4 +1,4 @@
-import java.math.BigInteger;
+import java.math.BigInteger; //importing BigInteger class from 'math' package
 public class BigInteger1 
 {
     public static void main(String[] args) 
